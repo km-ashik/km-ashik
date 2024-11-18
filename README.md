@@ -36,7 +36,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZibzIxMDRpMHNvdHp5andmM3dtdGN0a3V6YnQ5NWszem8yMzBrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -89,4 +89,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
